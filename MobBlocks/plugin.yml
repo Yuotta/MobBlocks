@@ -1,0 +1,13 @@
+name: MobBlocks
+main: Com.Erellion.Yuotta.Main.MobBlocks
+version: 1.0
+author: Yuotta 
+description: Spawn Mobs on blocks!
+website: www.erellion.com
+commands:
+   mbreload:
+      description: Reloads Mob Blocks Config
+      usage: /mbreload
+   mbgive:
+      description: Gives all the current Mob Blocks available
+      usage: /mbgive
